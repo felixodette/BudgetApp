@@ -1,4 +1,3 @@
-import random
 import sqlite3
 
 db = sqlite3.connect('budget.s3db')
